@@ -1,0 +1,11 @@
+# .github/ISSUE_TEMPLATE/config.yml
+
+# 空のIssue作成（テンプレートを使わないIssue作成）を禁止する
+# これにより、ユーザーは必ずテンプレートを選択するようになります。
+blank_issues_enabled: false
+
+# テンプレート以外での連絡先（質問や相談など）へのリンクを設定する（任意）
+contact_links:
+  - name: 質問・ディスカッション
+    url: https://github.com/YOUR_ORG_NAME/YOUR_REPO_NAME/discussions # 組織のDiscussionsページまたは外部フォーラムに変更
+    about: バグ報告や機能リクエストではない、一般的な質問や議論はこちら。
